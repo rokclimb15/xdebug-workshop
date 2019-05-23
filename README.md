@@ -21,5 +21,6 @@ PHPTek 2019 Workshop on XDebug
 8. Use in production
 
 ## Resources
+- https://getcomposer.org/download/
 - https://github.com/symfony/demo
 - https://xdebug.org/docs/

@@ -19,3 +19,7 @@ PHPTek 2019 Workshop on XDebug
 6. Step debugging with PHPStorm
 7. Profiling
 8. Use in production
+
+## Resources
+- https://github.com/symfony/demo
+- https://xdebug.org/docs/

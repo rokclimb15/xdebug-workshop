@@ -6,7 +6,6 @@ PHPTek 2019 Workshop on XDebug
 2. Your IDE of choice (PHPStorm preferred)
 2. PHP >= 7.0
 3. XDebug >= 2.6
-4. Git
 
 >We will install all required software during the workshop, so only #1 and #2 are hard requirements
 

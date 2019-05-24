@@ -24,3 +24,4 @@ PHPTek 2019 Workshop on XDebug
 - https://getcomposer.org/download/
 - https://github.com/symfony/demo
 - https://xdebug.org/docs/
+- https://www.jetbrains.com/phpstorm/marklets/
